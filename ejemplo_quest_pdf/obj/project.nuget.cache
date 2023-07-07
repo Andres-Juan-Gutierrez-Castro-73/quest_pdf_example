@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "vapXft2ovU92xqdJdh7u4KuEFI/t0ZeS1abCIHcrp0RgetGs3ujxs+A5pMys89Q0xdNmJJSAjWsW2hiX9ciQSw==",
+  "success": true,
+  "projectFilePath": "D:\\proyectos_ieb\\proyecto1\\library_pdf_generator_dotnet_core\\ejemplo_quest_pdf\\ejemplo_quest_pdf\\ejemplo_quest_pdf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andres Juan\\.nuget\\packages\\harfbuzzsharp\\2.8.2.3\\harfbuzzsharp.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Andres Juan\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2.3\\harfbuzzsharp.nativeassets.macos.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Andres Juan\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2.3\\harfbuzzsharp.nativeassets.win32.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Andres Juan\\.nuget\\packages\\questpdf\\2023.6.0\\questpdf.2023.6.0.nupkg.sha512",
+    "C:\\Users\\Andres Juan\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\Andres Juan\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.3\\skiasharp.harfbuzz.2.88.3.nupkg.sha512",
+    "C:\\Users\\Andres Juan\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\Andres Juan\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}
